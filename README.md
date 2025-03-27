@@ -69,3 +69,13 @@ To stop the containers
 ```bash
   docker-compose down
 ```
+
+## API Documentation
+
+We use Postman to document and test our API endpoints. You can find the complete API documentation at:
+
+[Postman API Documentation](https://documenter.getpostman.com/view/11303785/2sAYkLmweD)
+
+- Import the collection into Postman to easily test the endpoints.
+- Ensure the backend is running before making requests.
+- Update environment variables in Postman to match your local setup.
