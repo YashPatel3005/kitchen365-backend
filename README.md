@@ -61,7 +61,7 @@ Go to the project directory
 Start the services using Docker Compose
 
 ```bash
-  docker-compose up --build
+  docker-compose --profile production up --build
 ```
 
 To stop the containers
